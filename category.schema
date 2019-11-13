@@ -1,0 +1,5 @@
+{
+    "id":"int",
+    "desc":"string",
+    "fk_id_category":"int"
+}

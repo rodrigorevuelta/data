@@ -1,0 +1,6 @@
+{
+	"id":"int",
+	"desc":"string",
+	"lat":"decimal",
+	"lon":"decimal"
+}

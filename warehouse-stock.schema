@@ -1,0 +1,5 @@
+{
+    "fk_id_item":"int",
+    "fk_id_warehouse":"int",
+    "quantity":"int"
+}

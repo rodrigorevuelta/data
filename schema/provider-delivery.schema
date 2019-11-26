@@ -1,0 +1,6 @@
+{
+    "id":"int",
+    "fk-id-item":"int",
+    "deliveryDate":"date",
+    "quantity":"int"
+}
